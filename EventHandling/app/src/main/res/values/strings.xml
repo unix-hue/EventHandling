@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Event Handling</string>
+    <string name="buttonclick">ButtonClick</string>
+    <string name="motionevent">MotionEvent</string>
+    <string name="commongentures">CommonGentures</string>
+    <string name="first">Выберите опцию меню</string>
+    <string name="second">Смотри на меня!</string>
+    <string name="third">Нажми меня!</string>
+    <string name="four">Смотри на меня!</string>
+    <string name="five">И на меня!</string>
+    <string name="six">А на меня не надо</string>
+    <string name="seven">Я здесь!</string>
+    <string name="down">onDown</string>
+    <string name="onfling">onFling</string>
+    <string name="onlongpress">onLongPress</string>
+    <string name="onscroll">onScroll</string>
+    <string name="onshowpress">onShowPress</string>
+    <string name="onsingletapup">onSingleTapUp</string>
+    <string name="ondoubletap">onDoubleTap</string>
+    <string name="ondoubletapevent">onDoubleTapEvent</string>
+    <string name="onsingletapconfirmed">onSingleTapConfirmed</string>
+    <string name="buttonClicked">Button clicked</string>
+    <string name="longButtonClicked">Long button click</string>
+</resources>
